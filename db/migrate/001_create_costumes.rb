@@ -1,5 +1,5 @@
 # Create a class and inherit from ActiveRecord::Migration
-class Costumes
+class CreateCostumes
 
 end
 
