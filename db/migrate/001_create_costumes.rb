@@ -8,6 +8,7 @@ class CreateCostumes < ActiveRecord::Migration[5.1]
       t.string :size
       t.datetime :created
       t.datetime :last_updated
+    end
   end
 end
 
