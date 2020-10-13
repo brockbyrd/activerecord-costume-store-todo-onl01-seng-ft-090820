@@ -7,7 +7,7 @@ class CreateCostumes
       t.string :name,
       t.string :size,
       t.timedate :created,
-      t.timedate :updated
+      t.timedate :last_updated
   end
 end
 
