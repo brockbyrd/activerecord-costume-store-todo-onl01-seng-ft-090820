@@ -6,7 +6,7 @@ class CreateCostumes
       t.integer :price,
       t.string :name,
       t.string :size,
-      t.timedate :created
+      t.timedate :created,
       t.timedate :updated
   end
 end
